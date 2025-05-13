@@ -1,5 +1,5 @@
 .css-cdzvx5.ant-layout-header {
-  background: #FFFFFF !important;
+  background: #ffffff !important;
 }
 
 :where(.css-dev-only-do-not-override-cdzvx5).ant-layout-header {
@@ -8,12 +8,12 @@
 
 
 .css-cdzvx5.ant-layout-content {
-  color: #000000 !important;
+  color: #ffffff !important;
   background: #FFFFFF !important;
 }
 
 :where(.css-dev-only-do-not-override-cdzvx5).ant-layout-content {
-  color: #000000!important;
+  color: #ffffff!important;
   background: #FFFFFF!important;
 }
 
@@ -30,11 +30,11 @@ main {
 }
 
 .css-cdzvx5.ant-layout-footer {
-  background: #FFFFFF !important;
+  background: #ffffff !important;
 }
 
 :where(.css-dev-only-do-not-override-cdzvx5).ant-layout-footer {
-  background: #FFFFFF!important;
+  background: #ffffff!important;
 }
 
 @media (max-width: 640px) {

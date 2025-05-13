@@ -1,9 +1,9 @@
 
 .card {
-  width: 451px;
-  height: 279px;
+  width: 460px;
+  height: 292px;
   display: grid;
-  grid-template-columns: 183px 1fr 50px;
+  grid-template-columns: 185px 1fr 50px;
   grid-template-rows: 50px 50px 1fr 30px;
   grid-template-areas:
     'poster title rating'
@@ -26,7 +26,7 @@
 
 .poster-movie {
   grid-area: poster;
-  width: 183px;
+  width: 185px;
 }
 
 .title {
@@ -38,7 +38,7 @@
   padding: 10px 0 0 20px;
   font-family: 'Inter UI';
   font-size: 20px;
-  line-height: 28px;
+  line-height: 30px;
   font-weight: 400;
 }
 
